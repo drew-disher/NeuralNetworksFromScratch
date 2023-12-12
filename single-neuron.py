@@ -1,4 +1,4 @@
-# This Python file uses the following encoding: utf-8
+# Single neuron in raw python
 inputs = [ 1.0, 2.0, 3.0]
 weights = [ 0.2, 0.8, -0.5 ]
 bias = 2
